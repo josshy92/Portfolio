@@ -1,19 +1,16 @@
-import './App.css';
-import { NavLink, Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import AboutMe from './components/aboutMe/AboutMe';
 import Projects from './components/projects/Projects';
 import ContactInfo from './components/contactInfo/ContactInfo';
 import Resume from './components/resume/Resume';
 import HomeOutlined from 'antd'
+import Nav from './components/nav/Nav'
+
+
 function App() {
   return (
     <>
-    <nav>
-      <NavLink to='/'> About Me</NavLink>
-      <NavLink to='/projects'> Projects </NavLink>
-      <NavLink to='/contactInfo'> Contact Info </NavLink>
-      <NavLink to='/resume'> Resume </NavLink>
-    </nav>
+    <Nav />
     <Routes>
       <Route path="/" element= {<AboutMe/>} />
       <Route path="/projects" element= {<Projects/>} />
