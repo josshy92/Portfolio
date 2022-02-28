@@ -1,0 +1,81 @@
+.techSkills{
+    color: white;
+    margin-left: 2rem;
+}
+
+.skills{
+    color: white;
+    margin-left: 4rem;
+}
+
+
+@media screen and (max-width: 992px) {
+    div,
+    p,
+    section,
+    h1,
+    h2,
+    .techSkills,
+    .skills {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 1rem;
+    }
+  }
+  
+  /* Large smartphones*/
+  @media screen and (max-width: 768px) {
+    div,
+    p,
+    section,
+    h1,
+    h2,
+    .techSkills,
+    .skills {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 1rem;
+    }
+      .center {
+          transition: .5s ease;
+          opacity: 0;
+          position: absolute;
+          top: 80%;
+          left: 85%;
+          transform: translate(-50%, -50%);
+          -ms-transform: translate(-50%, -50%);
+          text-align: center;
+        }
+  
+        p {
+            font-size: 14px;
+        }
+
+      }
+  
+      
+     
+  
+      
+      /* Small smartphones */
+      @media screen and (max-width: 576px)  {
+      div,
+      p,
+      section,
+      h1,
+      h2,
+      .techSkills,
+      .skills {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 1rem;
+      }
+      img {
+        max-width: 90%;
+        height: auto;
+      }
+     
+    }

@@ -82,9 +82,6 @@ export default function Projects() {
                     alt="What's Your Food Temp" /></div>
             </div>
 
-            
-
-
         </div>
     )
 }

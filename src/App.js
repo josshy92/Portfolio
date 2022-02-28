@@ -2,7 +2,7 @@ import './App.css';
 import { Routes, Route } from 'react-router-dom';
 import AboutMe from './components/aboutMe/AboutMe';
 import Projects from './components/projects/Projects';
-import ContactInfo from './components/contactInfo/ContactInfo';
+import ContactInfo from './components/contactInfo/Contactinfo';
 import Resume from './components/resume/Resume';
 import Nav from './components/nav/Nav';
 import Footer from './components/footer/Footer';
