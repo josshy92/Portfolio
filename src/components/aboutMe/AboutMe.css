@@ -1,0 +1,38 @@
+.meBackground{
+    color: rgb(5, 4, 4);
+}
+
+.blurb {
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 40%;
+     margin-top: 1rem;
+     color: rgb(227, 224, 233);
+   
+   }
+.josshy{
+    margin-left: 2rem;
+    color: white;
+}
+.aboutMe {
+    
+    align-items: center;
+    text-align: center;
+  }
+
+#myPic {
+    margin-top: 1rem;
+    width: 10%;
+    height: auto;
+    border-radius: 1rem;
+    opacity: 90%;
+    ;
+  }
+#myPic:hover {
+    position:relative;
+    width:20%;
+    height:auto;
+    z-index:999;
+    transition-duration: 2s;
+}

@@ -1,23 +1,27 @@
+import './App.css';
 import { Routes, Route } from 'react-router-dom';
 import AboutMe from './components/aboutMe/AboutMe';
 import Projects from './components/projects/Projects';
 import ContactInfo from './components/contactInfo/ContactInfo';
 import Resume from './components/resume/Resume';
-import HomeOutlined from 'antd'
-import Nav from './components/nav/Nav'
+import Nav from './components/nav/Nav';
+import Footer from './components/footer/Footer';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 function App() {
   return (
-    <>
-    <Nav />
-    <Routes>
-      <Route path="/" element= {<AboutMe/>} />
-      <Route path="/projects" element= {<Projects/>} />
-      <Route path="/contactInfo" element= {<ContactInfo/>} />
-      <Route path="/resume" element= {<Resume/>} />
-    </Routes>
-    </>
+    <div className='background'>
+      <Nav />
+      <Routes>
+        <Route path="/" element={<AboutMe />} />
+        <Route path="/projects" element={<Projects />} />
+        <Route path="/contactInfo" element={<ContactInfo />} />
+        <Route path="/resume" element={<Resume />} />
+      </Routes>
+      <Footer />
+    </div>
   );
 }
 
