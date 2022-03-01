@@ -15,7 +15,7 @@ function App() {
     <div className='background'>
       <Nav />
       <Routes>
-        <Route exact path="/home" element={<AboutMe />} />
+        <Route path="/home" element={<AboutMe />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/contactInfo" element={<ContactInfo />} />
         <Route path="/resume" element={<Resume />} />
