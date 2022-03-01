@@ -1,5 +1,5 @@
 import './App.css';
-import { Routes, Route } from 'react-router-dom';
+import { HashRouter as Routes, Route } from 'react-router-dom';
 import AboutMe from './components/aboutMe/AboutMe';
 import Projects from './components/projects/Projects';
 import ContactInfo from './components/contactInfo/Contactinfo';
