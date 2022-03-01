@@ -4,4 +4,4 @@ This is my portfolio built with the React JS library. You can find all of my inf
 # Links
 Repo: https://github.com/josshy92/Portfolio
 
-Live Deploy: 
+Live Deploy: https://josshy92.github.io/Portfolio/
