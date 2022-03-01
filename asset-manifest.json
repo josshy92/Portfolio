@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.dabc35f7.css",
-    "main.js": "/static/js/main.7924bda0.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/PSN.jpg": "/static/media/PSN.852d972944a6aa69406a.jpg",
-    "index.html": "/index.html",
-    "main.dabc35f7.css.map": "/static/css/main.dabc35f7.css.map",
-    "main.7924bda0.js.map": "/static/js/main.7924bda0.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/home/static/css/main.ca1bd018.css",
+    "main.js": "/home/static/js/main.2339ebd3.js",
+    "static/js/787.1ed0c42c.chunk.js": "/home/static/js/787.1ed0c42c.chunk.js",
+    "static/media/PSN.jpg": "/home/static/media/PSN.852d972944a6aa69406a.jpg",
+    "index.html": "/home/index.html",
+    "main.ca1bd018.css.map": "/home/static/css/main.ca1bd018.css.map",
+    "main.2339ebd3.js.map": "/home/static/js/main.2339ebd3.js.map",
+    "787.1ed0c42c.chunk.js.map": "/home/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dabc35f7.css",
-    "static/js/main.7924bda0.js"
+    "static/css/main.ca1bd018.css",
+    "static/js/main.2339ebd3.js"
   ]
 }
