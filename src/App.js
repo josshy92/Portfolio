@@ -1,5 +1,5 @@
 import './App.css';
-import { HashRouter as Routes, Route } from 'react-router-dom';
+import {  Routes, Route } from 'react-router-dom';
 import AboutMe from './components/aboutMe/AboutMe';
 import Projects from './components/projects/Projects';
 import ContactInfo from './components/contactInfo/Contactinfo';
@@ -15,7 +15,7 @@ function App() {
     <div className='background'>
       <Nav />
       <Routes>
-        <Route path="/" element={<AboutMe />} />
+        <Route exact path="/home" element={<AboutMe />} />
         <Route path="/projects" element={<Projects />} />
         <Route path="/contactInfo" element={<ContactInfo />} />
         <Route path="/resume" element={<Resume />} />
