@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/josshy92/Portfolio",
+  "homepage": "https://josshy92.github.io/Portfolio/",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@emailjs/browser": "^3.4.0",
