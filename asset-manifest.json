@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/josshy92/Josshy-Olea/static/css/main.c54a0248.css",
-    "main.js": "/josshy92/Josshy-Olea/static/js/main.c0aa6cb7.js",
-    "static/js/787.1ed0c42c.chunk.js": "/josshy92/Josshy-Olea/static/js/787.1ed0c42c.chunk.js",
-    "static/media/PSN.jpg": "/josshy92/Josshy-Olea/static/media/PSN.852d972944a6aa69406a.jpg",
-    "index.html": "/josshy92/Josshy-Olea/index.html",
-    "main.c54a0248.css.map": "/josshy92/Josshy-Olea/static/css/main.c54a0248.css.map",
-    "main.c0aa6cb7.js.map": "/josshy92/Josshy-Olea/static/js/main.c0aa6cb7.js.map",
-    "787.1ed0c42c.chunk.js.map": "/josshy92/Josshy-Olea/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/josshy92/Portfolio/static/css/main.082be1d6.css",
+    "main.js": "/josshy92/Portfolio/static/js/main.9e923652.js",
+    "static/js/787.1ed0c42c.chunk.js": "/josshy92/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/PSN.jpg": "/josshy92/Portfolio/static/media/PSN.852d972944a6aa69406a.jpg",
+    "index.html": "/josshy92/Portfolio/index.html",
+    "main.082be1d6.css.map": "/josshy92/Portfolio/static/css/main.082be1d6.css.map",
+    "main.9e923652.js.map": "/josshy92/Portfolio/static/js/main.9e923652.js.map",
+    "787.1ed0c42c.chunk.js.map": "/josshy92/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c54a0248.css",
-    "static/js/main.c0aa6cb7.js"
+    "static/css/main.082be1d6.css",
+    "static/js/main.9e923652.js"
   ]
 }
