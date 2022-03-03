@@ -1,8 +1,8 @@
 {
   "name": "portfolio",
+  "homepage": "https://josshy92.github.io/Portfolio/",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/josshy92/Portfolio",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@emailjs/browser": "^3.4.0",
