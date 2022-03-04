@@ -1,5 +1,5 @@
 # Portfolio
-This is my portfolio built with the React JS library. You can find all of my information on my page.
+This is my portfolio built with the React JS library. You can find all of my information on my page and my contact info below!
 
 # Links
 Repo: https://github.com/josshy92/Portfolio
