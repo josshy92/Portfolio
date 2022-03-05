@@ -34,4 +34,5 @@ const Contactinfo = () => {
   );
 };
 
+
 export default Contactinfo
