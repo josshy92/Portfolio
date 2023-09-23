@@ -12,6 +12,7 @@ const Contactinfo = () => {
     emailjs.sendForm('service_jcywjgv', 'template_ysgjhpo', form.current, 'lE1hCSWcbPFOxCMj6')
       .then((result) => {
         console.log("this is my result", result);
+        window.alert("Success!")
         window.location.reload();
       }, (error) => {
         console.log("oh no!", error.text);

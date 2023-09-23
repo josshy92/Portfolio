@@ -1,5 +1,5 @@
 body{
-    background-image: repeating-linear-gradient(to right,rgb(16, 14, 124), rgb(7, 7, 66), black, rgb(255, 255, 255) 100%), url('../../../public/PSN.jpg');
+    background-image: repeating-linear-gradient(to right,rgb(16, 14, 124), rgb(7, 7, 66), black 100%), url('../../../public/smoke-1001664_1920.png');
     background-blend-mode:hard-light;
     background-size: cover, cover;
     background-position: center;
@@ -51,7 +51,7 @@ body{
 
   
    .top{
-       margin-top: 3rem;
+       margin-top: 5rem;
        
    }
    .bottom{

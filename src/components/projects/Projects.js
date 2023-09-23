@@ -2,7 +2,20 @@ import './Projects.css'
 export default function Projects() {
     return (
         <div className="row justify-content-center ">
-            <div className="col-12 textCenter ">
+            <div className="col-3 textCenter">
+                <h2 className='top projectTitle'>Bumbu</h2>
+                <a className='shorten1' target="_blank" rel="noopener noreferrer" href="https://bumbu-recipe-book.herokuapp.com/">
+                    <p className="projectTitle">See it live here!</p> <br />
+                </a>
+                <a className='shorten2' target="_blank" rel="noopener noreferrer" href="https://github.com/Cocineros/bumbu-frontend">
+                    <p className="projectTitle">Check out the Repository!</p>
+                </a>
+            <div><img className="fromLeft projects"
+                    src="https://user-images.githubusercontent.com/88861538/159187590-33ae5f1c-a3f8-44c4-8ccb-28f41f72582e.png"
+                    alt="Bumbu" /></div>
+            </div>
+
+            <div className="col-3 textCenter ">
                 <h2 className='top projectTitle'>NeighborGoods</h2>
                 <a className='shorten1' target="_blank" rel="noopener noreferrer" href="https://bread-winners-neighborgoods.herokuapp.com/">
                     <p className="projectTitle ">See it live here!</p> <br />
@@ -15,8 +28,8 @@ export default function Projects() {
                     alt="NeighborGoods" /></div>
             </div>
 
-            <div className="col-6 textCenter ">
-                <h2 className="projectTitle">What's Your Food Temp</h2>
+            <div className="col-3 textCenter ">
+                <h2 className="top projectTitle">What's Your Food Temp</h2>
                 <a className='shorten1' target="_blank" rel="noopener noreferrer"
                     href="https://seasons-of-food.github.io/whats-your-food-temp/">
                     <p className="projectTitle ">See it live here!</p> <br />
@@ -26,11 +39,12 @@ export default function Projects() {
                     <p className="projectTitle">Check out the Repository!</p>
                 </a>
                 <div><img className="fromLeft projects"
-                    src="https://github.com/seasons-of-food/whats-your-food-temp/raw/main/images/whats-your-food-app.jpg"
+                    src="https://user-images.githubusercontent.com/88861538/270085765-251ab8ce-a137-434e-93bb-dffa36fba246.png"
                     alt="What's Your Food Temp" /></div>
             </div>
+            <div></div>
 
-            <div className="col-6 textCenter">
+            <div className="col-3 textCenter">
                 <h2 className='projectTitle'>Social Network</h2>
                 <a className='shorten1' target="_blank" rel="noopener noreferrer" href="https://watch.screencastify.com/v/N488YYVHrpByVGwSk7tI">
                     <p className="projectTitle">See it live here!</p> <br />
@@ -43,7 +57,7 @@ export default function Projects() {
                     alt="" /></div>
             </div>
 
-            <div className="col-6 textCenter">
+            <div className="col-3 textCenter">
                 <h2 className='projectTitle'>Note Taker</h2>
                 <a className='shorten1' target="_blank" rel="noopener noreferrer" href="https://peaceful-hollows-01900.herokuapp.com/">
                     <p className="projectTitle">See it live here!</p> <br />
@@ -56,31 +70,19 @@ export default function Projects() {
                     alt="What's Your Food Temp" /></div>
             </div>
 
-            <div className="col-6 textCenter">
-                <h2 className='projectTitle'>Weather App</h2>
-                <a className='shorten1' target="_blank" rel="noopener noreferrer" href="https://josshy92.github.io/Weather-App/">
+            <div className="col-3 textCenter">
+                <h2 className='projectTitle'>Poké App</h2>
+                <a className='shorten1' target="_blank" rel="noopener noreferrer" href="https://josshy92.github.io/PokeApp/">
                     <p className="projectTitle">See it live here!</p> <br />
                 </a>
-                <a className='shorten2' target="_blank" rel="noopener noreferrer" href="https://github.com/josshy92/Weather-App">
+                <a className='shorten2' target="_blank" rel="noopener noreferrer" href="https://github.com/josshy92/PokeApp#pokemon-randomizer-for-scarlet-and-violet-">
                     <p className="projectTitle">Check out the Repository!</p>
                 </a>
                 <div><img className="fromLeft projects"
-                    src="https://user-images.githubusercontent.com/88861538/140621684-2c5c0c88-b1d3-40d4-a12c-beddaa199939.png"
+                    src="https://user-images.githubusercontent.com/88861538/270082256-f60909ec-349b-4d17-b3a6-5458983a462b.png"
                     alt="What's Your Food Temp" /></div>
             </div>
 
-            <div className="col-12 textCenter">
-                <h2 className='projectTitle'>Tech Blog</h2>
-                <a className='shorten1' target="_blank" rel="noopener noreferrer" href="https://safe-beyond-66911.herokuapp.com/">
-                    <p className="projectTitle">See it live here!</p> <br />
-                </a>
-                <a className='shorten2' target="_blank" rel="noopener noreferrer" href="https://github.com/josshy92/Tech-Blog">
-                    <p className="projectTitle">Check out the Repository!</p>
-                </a>
-                <div><img className="fromLeft projects"
-                    src="https://user-images.githubusercontent.com/88861538/150621228-813c8c13-aed2-4bd4-b472-340095067ae2.png"
-                    alt="What's Your Food Temp" /></div>
-            </div>
 
         </div>
     )

@@ -5,7 +5,7 @@ export default function AboutMe() {
         <div className="meBackground" >
             <h1 className="josshy"> Josshy's Portfolio</h1>
             <p className="blurb">Software engineer using various customer support roles to help create dynamic and user-friendly
-                interfaces. Completing a certificate for full stack web development from Northwestern
+                interfaces. Completed a certificate for full stack web development from Northwestern
                 University. Worked diligently in healthcare for over four years to develop communication skills to
                 effectively communicate with colleagues, leadership, and clients from diverse backgrounds. Striving to
                 create projects using modern code and innovative design that will draw reader's attention and ultimately
