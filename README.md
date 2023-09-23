@@ -11,4 +11,3 @@ Live Deploy: https://josshy92.github.io/Portfolio/
 
 # Contact Me
 Email: josshy92@gmail.com
-Phone: (224) 552-0397
