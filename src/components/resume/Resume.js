@@ -19,7 +19,7 @@ export default function Resume() {
                     <li>CSS3</li>
                     <li>Bootstrap</li>
                 </ul>
-            <h4 className='skills'>Download and view my full resume  <a className='shorten2' target="_blank" rel="noopener noreferrer" href="https://docs.google.com/document/d/1ki0AuystvZ-p8gQLFKzVt1jgb6yM-0wBhdnFm76ve-U/edit?usp=sharing">here</a> </h4>
+            <h4 className='skills'>Download and view my full resume  <a className='shorten2' target="_blank" rel="noopener noreferrer" href="https://docs.google.com/document/d/1yq_AHOuzqr6JXLJ5yt3oOvyr8iR7Q9yI/edit?usp=sharing&ouid=112531032005241728342&rtpof=true&sd=true">here</a> </h4>
         </div>
     )
 }
